@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" role="img" aria-label="2ГИС">
+  <defs><clipPath id="c"><rect x="1" y="1" width="32" height="32" rx="8"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect x="1" y="1" width="32" height="32" fill="#36bf39"/>
+    <path d="M-1 2h37v9.2L-1 7.4Z" fill="#ffbd18"/>
+    <path d="M-2 28.4 36 22v14H-2Z" fill="#67d323"/>
+    <path d="M-2 9.4 36 13.2" fill="none" stroke="#fff" stroke-width="1.7" opacity=".95"/>
+    <path d="M-2 29.5 36 23.1" fill="none" stroke="#fff" stroke-width="1.5" opacity=".95"/>
+    <path d="M17 7.1c-5 0-8.7 3.8-8.7 8.5 0 3.7 2.3 6.6 5.8 7.7v5.5h5.8v-5.5c3.5-1.1 5.8-4 5.8-7.7 0-4.7-3.7-8.5-8.7-8.5Z" fill="#1877e8" stroke="#fff" stroke-width="1.7" stroke-linejoin="round"/>
+  </g>
+  <rect x="1" y="1" width="32" height="32" rx="8" fill="none" stroke="rgba(0,0,0,.08)"/>
+</svg>

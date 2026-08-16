@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 54" role="img" aria-labelledby="title">
+  <title id="title">Мардан Строй</title>
+  <g fill="none" stroke="#ff8a00" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 42V13l14-8 14 8 14-8 14 8v29"/>
+    <path d="M19 42V20l14 8 14-8v22"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="800">
+    <text x="71" y="22" font-size="17" fill="#fff">МАРДАН</text>
+    <text x="71" y="44" font-size="18" fill="#ff8a00">СТРОЙ</text>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 30" role="img" aria-label="Яндекс Карты">
+  <circle cx="15" cy="15" r="14" fill="#ff4433"/>
+  <text x="15" y="21" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#fff">Я</text>
+  <path d="M41 1.5c-7 0-12 5.2-12 11.8 0 8.3 12 15.2 12 15.2s12-6.9 12-15.2C53 6.7 48 1.5 41 1.5Z" fill="#ff4433"/>
+  <circle cx="41" cy="12.8" r="4.4" fill="#fff"/>
+</svg>

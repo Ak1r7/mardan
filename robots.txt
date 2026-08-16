@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /storage/
+Disallow: /references/
+Disallow: /src/
+Disallow: /tests/
+Disallow: /tools/
+Sitemap: https://mardan-stroy.ru/sitemap.xml

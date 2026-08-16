@@ -1,0 +1,354 @@
+{
+  "files": [
+    {
+      "path": ".htaccess",
+      "bytes": 1515,
+      "sha256": "f4fb84a4b95ffb9cdac7838551c33fd8185adcb7e72d134456529ac8e2911023"
+    },
+    {
+      "path": ".pytest_cache/.gitignore",
+      "bytes": 37,
+      "sha256": "3ed731b65d06150c138e2dadb0be0697550888a6b47eb8c45ecc9adba8b8e9bd"
+    },
+    {
+      "path": ".pytest_cache/CACHEDIR.TAG",
+      "bytes": 191,
+      "sha256": "37dc88ef9a0abeddbe81053a6dd8fdfb13afb613045ea1eb4a5c815a74a3bde4"
+    },
+    {
+      "path": ".pytest_cache/README.md",
+      "bytes": 302,
+      "sha256": "73fd6fccdd802c419a6b2d983d6c3173b7da97558ac4b589edec2dfe443db9ad"
+    },
+    {
+      "path": ".pytest_cache/v/cache/nodeids",
+      "bytes": 1188,
+      "sha256": "5162110b0640938958036f98ed422453dba4af650d82891a649f4e8d64cf6747"
+    },
+    {
+      "path": "404.html",
+      "bytes": 793,
+      "sha256": "9e8fe2481a44869792dbeef12bad36c2017f201c435d8debd3861a22696ebc31"
+    },
+    {
+      "path": "500.html",
+      "bytes": 839,
+      "sha256": "fdbba5344b74ec4c56e7063b51267c3497db6a0b87217e4bb30f957cda0c497e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5152,
+      "sha256": "c892cd50c8ff0656fb680bd6eadaab3adb51347aba7d717b67354408b74844da"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 1603,
+      "sha256": "6e1c7432e3cc70ab52623f84fd7d9d187fe62d97d3ee7ac2ef29b100cf265f6a"
+    },
+    {
+      "path": "SELECTED_VARIANT.txt",
+      "bytes": 886,
+      "sha256": "9354270d6d296234b5c9876ad075c82e5c5953a0c19f98ab7e2e3595ad91c75e"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 355,
+      "sha256": "184b76b1107e39b7b1d50bbb5c723ac239ad04abbe6f8388fff3d3e255d1975f"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "bytes": 1613,
+      "sha256": "7f09b0d2e4620099b2b2e8c483fba7ae75defb9aba45144b1badfd06847a94ed"
+    },
+    {
+      "path": "api/contact.php",
+      "bytes": 7168,
+      "sha256": "73969259879127fad3b31e85a0579f8bf23d2d07fa1bc6db0eb6d83171cbfdeb"
+    },
+    {
+      "path": "assets/badges/mardan-best-service.png",
+      "bytes": 1618292,
+      "sha256": "f177e3d64ce01261b6b2ae75af1bf7169b5ecd6433498c558b27d09c24befd7e"
+    },
+    {
+      "path": "assets/badges/mardan-best-value.png",
+      "bytes": 1842878,
+      "sha256": "5ae2c37699cd2d77e2a63b36aa906b75256290d075ac488b25c1c43dddc6bc51"
+    },
+    {
+      "path": "assets/badges/mardan-consumer-choice.png",
+      "bytes": 1843427,
+      "sha256": "370aaedf77d896dd3e087dead3a396f60592e173c176f36a5afcb3dfee4178e4"
+    },
+    {
+      "path": "assets/css/style.css",
+      "bytes": 120629,
+      "sha256": "c6e7d24f135d133eaa5ad54a28fb2e4f51c65fda95f18930e6bfaf0af60c8e9b"
+    },
+    {
+      "path": "assets/header-logo.png",
+      "bytes": 121572,
+      "sha256": "c313db036ada325be0104a79ccfb7ebea6bf26111f366c41cbeb26428c4630fd"
+    },
+    {
+      "path": "assets/images/about-premium.webp",
+      "bytes": 185254,
+      "sha256": "190e6749c7f64df259396297c4ff9324b63a2c042cff9b4842cf6435953bda06"
+    },
+    {
+      "path": "assets/images/about.webp",
+      "bytes": 38120,
+      "sha256": "4a13c1b62d12e721b23633aecaf08ebbe2b6f3a79e6839918fbb9b4081de224f"
+    },
+    {
+      "path": "assets/images/final-cta-house.webp",
+      "bytes": 292088,
+      "sha256": "71636c40da6b59b88c8c6100170e406a466c77ce7c443845836baa3b144ed22c"
+    },
+    {
+      "path": "assets/images/hero-brand-overlay.webp",
+      "bytes": 130014,
+      "sha256": "f216ef00d395d495090ab6d127e02cd9d3b28b7d0e8b9323772b6c148ec534f4"
+    },
+    {
+      "path": "assets/images/hero-branded.webp",
+      "bytes": 1522802,
+      "sha256": "342bed6883935c63e5b5a8f0b27e3d322a5d38fb2791323beb04ac11e672e3bc"
+    },
+    {
+      "path": "assets/images/hero-clean.webp",
+      "bytes": 83294,
+      "sha256": "f37cf6a41a9d28de978b55d83279c8edfb04598576563aa4b9d058a2af65890b"
+    },
+    {
+      "path": "assets/images/hero-mobile-hq.webp",
+      "bytes": 159182,
+      "sha256": "00228ea4c537fb71a3447b32aa69cd84c4d240339f502e7df92939de0bbb0885"
+    },
+    {
+      "path": "assets/images/hero-mobile-tablet-clean.webp",
+      "bytes": 185092,
+      "sha256": "e16931eab3f25c6abcc334a77d09677ec3c9f49a008b446f0800926490dc1435"
+    },
+    {
+      "path": "assets/images/hero.webp",
+      "bytes": 77960,
+      "sha256": "3e386a295e50a43138c84dbd7a22b0a1624c85a686a4f98998cd0513170e6a17"
+    },
+    {
+      "path": "assets/images/installment-clean.webp",
+      "bytes": 43654,
+      "sha256": "e219bb45abcbda0925c2b076ea415b5a117720a0a20dd35918e07bdd1a0b1c3e"
+    },
+    {
+      "path": "assets/images/installment-room.webp",
+      "bytes": 111962,
+      "sha256": "f7109a3f25f212da27f0d533369536f60441bae521cf394fbd42ff11e92ca68e"
+    },
+    {
+      "path": "assets/images/installment-zero.webp",
+      "bytes": 200360,
+      "sha256": "00054ce2454f2e84dab460cff95ac0beb7ed63325fb7ef29dcdff005a21c5087"
+    },
+    {
+      "path": "assets/images/map.webp",
+      "bytes": 56636,
+      "sha256": "5336321b107d32ac6eb9ddf0fc284034ac0b5a32667c9eebe1b65898e63bd951"
+    },
+    {
+      "path": "assets/images/portfolio/chocolate-1280.webp",
+      "bytes": 51012,
+      "sha256": "faed5aff7753a88b8a55edf226b3dc082ebac3dc64dac75ef3402a776f876594"
+    },
+    {
+      "path": "assets/images/portfolio/chocolate-720.webp",
+      "bytes": 23386,
+      "sha256": "187b71c53d63ce8adaf5956cea114cd2c5f0239b25d7e08058cf724c335669b8"
+    },
+    {
+      "path": "assets/images/portfolio/house-mikhailovsk.webp",
+      "bytes": 26580,
+      "sha256": "8be8299c37898fda73e3d1c0858d7956b3246dfc0f7e1c458ec2d39334d79f9d"
+    },
+    {
+      "path": "assets/images/portfolio/office-lenina.webp",
+      "bytes": 22122,
+      "sha256": "b2a6817ce0cf208e1912ae6cafbd0677eef235d6fce84778a89a7052a9148430"
+    },
+    {
+      "path": "assets/images/portfolio/perspective-1280.webp",
+      "bytes": 39822,
+      "sha256": "2fa42414c838743c922212db2093d45822a1d525c7effc14a088223f701c3b11"
+    },
+    {
+      "path": "assets/images/portfolio/perspective-720.webp",
+      "bytes": 17562,
+      "sha256": "af0a9a434396887bcb58300c2f4fc1336c841d087d060aaf734963a10dc0dc6a"
+    },
+    {
+      "path": "assets/images/review-logos/2gis.svg",
+      "bytes": 861,
+      "sha256": "64a2c001c543693a222be3e77e6ced69d4fd6c5f8966f95c8bb40646535e9728"
+    },
+    {
+      "path": "assets/images/review-logos/avito.svg",
+      "bytes": 311,
+      "sha256": "5bfe398a09026bf7dfeb93893a2babcea02046d4c76665fe2378041b96e78f37"
+    },
+    {
+      "path": "assets/images/review-logos/yandex-maps.svg",
+      "bytes": 472,
+      "sha256": "c60f2c08db1e7ab18cea23af2d24110a79d4ac2c951f6a7b8dc9d46d8be3e65e"
+    },
+    {
+      "path": "assets/images/reviews/person-1.jpg",
+      "bytes": 54337,
+      "sha256": "300091acab59934adb83c3db746f73dd5a33ea158967533e0a3c5e26d7c11236"
+    },
+    {
+      "path": "assets/images/reviews/person-2.jpg",
+      "bytes": 64173,
+      "sha256": "08b646f6404d0f9d71fb8d3844f42fc50d0d6756f3a4b4f0e8d31e5abfaf1217"
+    },
+    {
+      "path": "assets/images/reviews/person-3.jpg",
+      "bytes": 70100,
+      "sha256": "281b60444a683053c2565c33a74d96d210c8439fdf5bd0cfffb6828c20557018"
+    },
+    {
+      "path": "assets/js/app.js",
+      "bytes": 23264,
+      "sha256": "8dbc65e6638fdbbf10c26e2c135b4f76a004659da38a3288175ead7d8ed87362"
+    },
+    {
+      "path": "assets/logo.svg",
+      "bytes": 566,
+      "sha256": "5aeb897493519ea8d03a32d3f0f6cc3121697cf4692648f20e60b74bde2895f0"
+    },
+    {
+      "path": "assets/media/about-company.png",
+      "bytes": 358706,
+      "sha256": "6587efe614e5335b83fb8e3ec3a6aa3b3221702d6dc763e8749cda8310310f3e"
+    },
+    {
+      "path": "assets/media/brand-poster.png",
+      "bytes": 401200,
+      "sha256": "ed990a2fbb5366eaba3149e691f7457da8c0ab907f8fc5c49cdee791a7d9711a"
+    },
+    {
+      "path": "assets/media/exact-deadlines.png",
+      "bytes": 322824,
+      "sha256": "d2760d31938826fd6241a006888dfae94489b29a502bc9f3bdbcccb4253fada0"
+    },
+    {
+      "path": "assets/media/installment-quality.png",
+      "bytes": 523478,
+      "sha256": "a488fc7a2a148d566d3d73ed183b487c662fd56eadc1b8dcf2ba40bdeb6fe364"
+    },
+    {
+      "path": "assets/media/price-and-quality.png",
+      "bytes": 619831,
+      "sha256": "0ed417a2ecd1e0921787026e587cf780f72f09db740931ada321479b1c5d16bd"
+    },
+    {
+      "path": "assets/media/quality-details.png",
+      "bytes": 132701,
+      "sha256": "96e9994fecbff7c512140fae1a101cc5403eb5d7dbfe6d70a9836993d9660587"
+    },
+    {
+      "path": "assets/media/services-included.png",
+      "bytes": 356634,
+      "sha256": "549818e37c3b19cc119733418c1c796fed4bec59fbca1bc00c55da6e9f4d564f"
+    },
+    {
+      "path": "assets/media/work-process.png",
+      "bytes": 277781,
+      "sha256": "81606c46df6c67bedb2dd1116dcbf9163c61c65eeb29d79176fbcebb0572604d"
+    },
+    {
+      "path": "assets/partners/batyanya.png",
+      "bytes": 24299,
+      "sha256": "6a01184737514fb865442aa63b771ee94d9287bf08d622176f15144f1cc8c24b"
+    },
+    {
+      "path": "assets/partners/etazhi.png",
+      "bytes": 69193,
+      "sha256": "fa9582344f1ab50f6532cbd5430e368ef48a688122ce3f67002ef7017dff1f56"
+    },
+    {
+      "path": "assets/partners/inkom-nedvizhimost.png",
+      "bytes": 31561,
+      "sha256": "a7826ffab4ffe6f1af43a2ecc0d13d028b8ec422a5bc4fd450641b2a468df0b5"
+    },
+    {
+      "path": "assets/partners/istok.png",
+      "bytes": 21785,
+      "sha256": "087c5d2a2c5d988e252f21805bb14da134de4a59d60ebf06e481f9bfeebbe70f"
+    },
+    {
+      "path": "assets/partners/muravey.png",
+      "bytes": 29638,
+      "sha256": "4b4846187cce8578f8d17998d7fc3571877f9c8f4d76ac201ee757ad33870603"
+    },
+    {
+      "path": "assets/partners/nvs.png",
+      "bytes": 412989,
+      "sha256": "fbca4f8c4a30a26932ab37c3c4ea72be4d2c0479c68f295926792eff354bd2a4"
+    },
+    {
+      "path": "assets/partners/samolet-plus.png",
+      "bytes": 325265,
+      "sha256": "c11a69a789d86926e41e6179a0c8b5ea646d248b06218c3f52055fc765ce1517"
+    },
+    {
+      "path": "assets/partners/stroy-market.png",
+      "bytes": 180190,
+      "sha256": "0c063913387c081519fd333ff8fba7a506f0f0c8add53f4f48e21dfcc906637d"
+    },
+    {
+      "path": "assets/partners/top-grade-estate.png",
+      "bytes": 34178,
+      "sha256": "5ca91b26c68833c1d834053025456cede2a7a02846ed345230d57de293f71de4"
+    },
+    {
+      "path": "assets/partners/vse-instrumenty.png",
+      "bytes": 25113,
+      "sha256": "c52bb337dbe30cefdcd2594aad51ffa464025c88070343259722df7a18ce2711"
+    },
+    {
+      "path": "assets/partners/vse-o-stroyke.png",
+      "bytes": 17543,
+      "sha256": "2a041dd98b42f52d491a482a198cd76f502646346b8b8fc922d7e88be27064e1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 65301,
+      "sha256": "742f5cc3b372242ed90544a74ef31b3600b16f9f62b7a599d5e72b30233089b5"
+    },
+    {
+      "path": "package.json",
+      "bytes": 649,
+      "sha256": "d3c69a0bcad72f80e43e153f64b2dd5ad958e444320f9d2ab0ce3a61cfc5a51b"
+    },
+    {
+      "path": "privacy.html",
+      "bytes": 4143,
+      "sha256": "2aee80acd75b15dd0cd69e75615db88a79191cdf10b8d12eacff682e306b09f0"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 179,
+      "sha256": "9a9f25936cefcca62289c9f738551addb08666215ca27cd2d23a1bd06f1cafba"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 159,
+      "sha256": "71232fede16679165a5344422f3e7c4be2531b887791dc7d317bdbb5302c4331"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 349,
+      "sha256": "6a886049f256fc29514472017f57388ca9667edf6cf1784b992b5942ebafce46"
+    }
+  ]
+}

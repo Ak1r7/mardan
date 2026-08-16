@@ -1,0 +1,14 @@
+{
+  "name": "mardan-stroy-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Статический корпоративный сайт Мардан Строй с PHP-обработчиком заявок",
+  "scripts": {
+    "build": "tsc -p tsconfig.json && python3 tools/build.py",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "lint": "python3 tools/lint_site.py && node --check assets/js/app.js && php -l api/contact.php",
+    "test": "python3 -m unittest discover -s tests -v",
+    "check": "npm run typecheck && npm run lint && npm run test && npm run build",
+    "test:browser": "python3 tools/browser_smoke.py"
+  }
+}
